@@ -13,9 +13,9 @@ Suite à la réalisation de ces fichiers pour l'association [Reseau Salariat](ht
 
 L'objectif de ces fichiers est de faciliter le suivi comptable des petites associations : avoir un outil simple à prendre en main qui fait le juste nécessaire pour suivre le budget et les dépenses.
 
-<span style="color:cyan">**Important:** Même si ces fichiers peuvent servir de base, ils ne seront probablement pas adaptés à votre activité, notamment du fait que la comptabilité de RS est très simple. J'ai eu l'occasion, pour une autre association, de créer un fichier plus complet ; je le mettrai peut-être ici un jour si nécessaire.</span>
+**Important:** Même si ces fichiers peuvent servir de base, ils ne seront probablement pas adaptés à votre activité, notamment du fait que la comptabilité de RS est très simple. J'ai eu l'occasion, pour une autre association, de créer un fichier plus complet ; je le mettrai peut-être ici un jour si nécessaire.
 
-<span style="color:cyan">*Le mieux à mon sens reste de toute façon d'analyser les besoins spécifiques de chaque structure afin d'adapter les outils au fonctionnement, et non l'inverse.*</span>
+*Le mieux à mon sens reste de toute façon d'analyser les besoins spécifiques de chaque structure afin d'adapter les outils au fonctionnement, et non l'inverse.*
 
 
 ## Notes générales sur les fichiers
@@ -59,7 +59,7 @@ Sur la base d'un tableur, un document texte peut être automatiquement généré
 
 Ces fichiers n'ont pas vocation à servir tels quels pour n'importe quelle structure. Je les distribue pour le cas où ils pourraient servir de point de départ pour définir vos propres outils répondant à vos besoins.
 
-Si vous notez des problèmes, ou voulez soumettre des idées d'amélioration, vous pouvez les noter ici : https://github.com/sguerri/assotools/issues)
+Si vous notez des problèmes, ou voulez soumettre des idées d'amélioration, vous pouvez les noter ici : https://github.com/sguerri/assotools/issues
 
 Si vous avez des questions sur comment les utiliser ou les faire évoluer, vous pouvez également me contacter directement.
 
