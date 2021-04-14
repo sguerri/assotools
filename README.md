@@ -3,7 +3,7 @@
 [![License: ISC](https://img.shields.io/badge/License-ISC-yellow.svg)](https://spdx.org/licenses/ISC)
 
 > Comptabilité (très) simplifiée  
-> Suivi des adhésions (simple)
+> Suivi des adhésions (simple)  
 > Publipostage des reçus fiscaux
 
 
