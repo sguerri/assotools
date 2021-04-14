@@ -53,6 +53,7 @@ Cependant pour les associations ayant de nombreuses personnes adhérentes, il pe
 Le fichier **reçus_fiscaux.odt** permet de faire du publipostage des reçus fiscaux, sur la base des données présentes dans compta-adhesions.
 
 *Note 1 : L'affichage de la ligne dons n'est effectué que si le montant est positif*
+
 *Note 2 : Penser à faire un filtre, au moment du publipostage, sur les personnes ayant une cotisation non nulle. Cela évitera la production de reçus vides inutiles.*
 
 
