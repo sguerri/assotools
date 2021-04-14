@@ -32,7 +32,7 @@ Je travaille uniquement sous [LibreOffice](https://fr.libreoffice.org/), d'où l
 
 ## Comptabilité (très) simplifiée
 
-Le fichier compta_simple.ods permet de saisir dans une page les transactions de l'année et de créer automatiquement un compte de résultat ainsi qu'un suivi analytique du budget.
+Le fichier **compta_simple.ods** permet de saisir dans une page les transactions de l'année et de créer automatiquement un compte de résultat ainsi qu'un suivi analytique du budget.
 
 Nous sommes ici sur une comptabilité de trésorerie. Lors de l'établissement du bilan comptable de fin de période, un ajustement doit être réalisé des créances non encaissées et des dettes non payées.
 
@@ -43,16 +43,17 @@ Le plan comptable intégré ne comprend que les quelques comptes nécessaires ic
 
 ## Suivi des adhésions
 
-<span style="color:orange">*A venir pour les besoins de Réseau Salariat*</span>
+Le fichier **compta_adhesions.ods** est une version améliorée de compta_simple dans laquelle il est possible de saisir les dons / adhésions / abandons de frais des adhérent-es. 
 
 Cependant pour les associations ayant de nombreuses personnes adhérentes, il peut être intéressant (bien que plus complexe) d'envisager un outil spécifique comme [Galette](https://galette.eu/site/fr/). Une version hébergée est peut-être disponible chez un [hébergeur local](https://chatons.org/).
 
 
 ## Publipostage des reçus fiscaux
 
-<span style="color:orange">*A venir pour les besoins de Réseau Salariat*</span>
+Le fichier **reçus_fiscaux.odt** permet de faire du publipostage des reçus fiscaux, sur la base des données présentes dans compta-adhesions.
 
-Sur la base d'un tableur, un document texte peut être automatiquement généré, exporté, envoyé par email, pour répondre au besoin de création des reçus fiscaux.
+*Note 1 : L'affichage de la ligne dons n'est effectué que si le montant est positif*
+*Note 2 : Penser à faire un filtre, au moment du publipostage, sur les personnes ayant une cotisation non nulle. Cela évitera la production de reçus vides inutiles.*
 
 
 ## Problèmes et Questions
