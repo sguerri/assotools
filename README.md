@@ -57,6 +57,19 @@ Le fichier **reçus_fiscaux.odt** permet de faire du publipostage des reçus fis
 *Note 2 : Penser à faire un filtre, au moment du publipostage, sur les personnes ayant une cotisation non nulle. Cela évitera la production de reçus vides inutiles.*
 
 
+Fonctionnement :
+- Vérifier que LibreOffice est bien installé
+- Vérifier que LibreOffice Base est bien installé
+- Le fichier de compte doit être nommé `compta_adhesions.ods` et être placé dans le même dossier que le fichier de reçus fiscaux (sinon il faut refaire les liens de variables dans le modèles)
+- Dans LibreOffice Writer :
+    + la barre d'outils `Mail Merge` permet de réaliser le publipostage (nom de menu potentiellement différent en français)
+    + si le nom du fichier de comptabilité (ods) a été modifié, cliquer sur `Mail Merge Wizard` puis sur `Exchange Database` pour aller sélectionner le nouveau fichier ods en tant que source de données pour les reçus
+    + sinon en cliquant sur l'icône de base de données violet `Data sources` la table de données devrait apparaître
+    + vérifier que toutes les informations sont justes (notamment adresse, etc. ainsi que les dates surlignées en jaune)
+    + sélectionner quelques enregistrements (avec les boutons droite / gauche de la barre d'outil `Mail Merge`) pour vérifier que toutes les données se mettent bien à jour
+    + lancer la création des reçus fiscaux en les éditant de façon individuelle, en les imprimant en PDF, en les envoyant par email... selon votre mode de fonctionnement !
+
+
 ## Problèmes et Questions
 
 Ces fichiers n'ont pas vocation à servir tels quels pour n'importe quelle structure. Je les distribue pour le cas où ils pourraient servir de point de départ pour définir vos propres outils répondant à vos besoins.
